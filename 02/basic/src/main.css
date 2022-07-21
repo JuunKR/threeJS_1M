@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  /* background-color: blue; */
+}
+
+#three-canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
